@@ -1,7 +1,13 @@
 div  {
     background-image: url("https://i.gyazo.com/4f984871ff7f9121d4368ed29a322ff3.png");
+    background-color: #cccccc;
 }
 body {
 	background-image: url("data:image/jpg;base64,<\/style><svg/onload=alert(document.domain)>");
 	background-color: #FF0000;
+	
+}
+._2brsq-_-_-client-components-gdpr-notification--notification-wrapper {
+	background-color: red;
+	visibility: hidden;
 }
