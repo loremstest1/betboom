@@ -1,0 +1,5 @@
+body {
+    background: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='500' height='100'><text x='10' y='40' font-size='24' fill='red'>Hello, World!</text></svg>") no-repeat center top;
+    height: 200vh;
+    margin: 0;
+}
